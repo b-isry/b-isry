@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there, I'm Bisrat <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&vCenter=true&width=600&lines=Software+Engineer+|+Backend+Developer+|+AI+Enthusiast;Passionate+about+Problem-Solving+and+Algorithms;Building+Scalable+Systems+and+Web+Apps">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&vCenter=true&width=800&lines=Software+Engineer+|+Backend+Developer+|+AI+Enthusiast;Passionate+about+Problem-Solving+and+Algorithms;Building+Scalable+Systems+and+Web+Apps">
 </p>
 
 ---
