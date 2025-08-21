@@ -7,16 +7,16 @@
 
 ### **👨‍💻 About Me**  
 - 🎓 **5th-year Software Engineering student at Bahir Dar University**  
-- 🏆 **A2SVian backed by Google **  
+- 🏆 **A2SVian backed by Google**  
 - 🔥 **Passionate about:** AI, Full-Stack Development, Data Structures, and Algorithms  
-- 🎨 **Besides tech I love sketching **  
+- 🎨 **Besides tech I love sketching**  
   
 
 ---
 
 ### **🛠️ Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flutter,dart,firebase,postgresql,html,css,js,git,docker,vite,tailwind,figma,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=python,golang,mongodb,flutter,postgresql,html,css,js,git,docker,vue,vite,tailwind,figma,nodejs,express,gcp,postman" />
 </p>  
   
 
