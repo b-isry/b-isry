@@ -6,10 +6,10 @@
 ---
 
 ### **👨‍💻 About Me**  
-- 🎓 **4th-year Software Engineering student at Bahir Dar University**  
-- 🏆 **A2SVian backed by Google | Intern at A2SV (Africa to Silicon Valley)**  
+- 🎓 **5th-year Software Engineering student at Bahir Dar University**  
+- 🏆 **A2SVian backed by Google **  
 - 🔥 **Passionate about:** AI, Full-Stack Development, Data Structures, and Algorithms  
-- 🎨 **I also do UI/UX design for web & mobile apps**  
+- 🎨 **Besides tech I love sketching **  
   
 
 ---
@@ -44,7 +44,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/bisrat-teshome-6182632b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="b_isry" height="30" width="40" /></a>
 <a href="https://instagram.com/b_isry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b_isry" height="30" width="40" /></a>
-<a href="https://dribbble.com/bisr_y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="b_isry" height="30" width="40" /></a>
 <a href="https://discord.bisry_60510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1931" height="30" width="40" /></a>
 </p>
 
